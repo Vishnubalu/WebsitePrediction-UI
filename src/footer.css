@@ -1,0 +1,47 @@
+.about {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    height: auto;
+    background-color: #2e459c;
+    color: white;
+    text-align: center;
+}
+
+.head {
+    margin-right: 10%;
+
+}
+
+h1 {
+    color: #0c7b00;
+    font-size: 40px;
+    font-family: Times;
+    padding-bottom: 10px;
+}
+
+.info {
+    font-family: Times;
+    font-size: 23px;
+}
+a{
+    color: #17EB00;
+    cursor: pointer;
+}
+p{
+    color: white;
+}
+h2
+{
+    font-family: Times;
+}
